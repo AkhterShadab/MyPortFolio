@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%;
+    
 }
 
 .about__me{
@@ -11,13 +12,21 @@
     background: linear-gradient(45deg,transparent,var(--color-primary),transparent);
     display: grid;
     place-items:center;
+    position: relative;
+    overflow: hidden;
 }
 
 .about__me-image{
     border-radius: 2rem;
-    overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    position:absolute; 
+    overflow: hidden;
+    margin: auto;
+  top:0; 
+  bottom:0; 
+  width:100%;
+    height: 250px;
 }
 
 .about__me-image:hover{
