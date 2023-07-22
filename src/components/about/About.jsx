@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import './about.css';
-import ME from '../../assets/Shadab_4-3_copy.png';
+import ME from '../../assets/Shadab_4-3_copy-min.png';
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';

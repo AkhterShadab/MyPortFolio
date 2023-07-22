@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css';
 import CTA from './CTA';
-import ME from '../../assets/Shadab_3-removebg.png';
+import ME from '../../assets/Shadab_3-removebg-min.png';
 import HeaderSocials from './HeaderSocials';
 
 export default function header() {
