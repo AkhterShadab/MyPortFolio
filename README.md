@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Welcome to my portfolio website! Here, you'll find a showcase of my diverse skills and experiences as a Full Stack developer. The website is designed to provide a glimpse into my journey and the projects I've been a part of.
+
+The homepage features an eye-catching introduction, giving visitors a brief overview of my expertise and passion for web development. Moving on, you'll discover a section dedicated to my professional background, including my education, certifications, and work experience with prestigious clients like PayPal, Microsoft, and TCS.
+
+As you explore further, you'll encounter a detailed portfolio highlighting some of my most noteworthy projects. Each project comes with a brief description, the technologies utilized, and the challenges overcome. To offer a comprehensive view of my skills, I've categorized these projects into various sections, showcasing proficiency in ReactJS, TypeScript, JavaScript, Redux, NodeJS, ExpressJs, and MongoDB.
+
+Beyond showcasing my technical expertise, the website also includes a section about my approach to problem-solving and how I collaborate with teams to deliver exceptional results. Moreover, you can find ways to connect with me through social media and professional networks, allowing us to establish a meaningful connection.
+
+Overall, my portfolio website is a window into my journey as a Full Stack developer, highlighting the diversity of my work and my dedication to pushing the boundaries of web development. Whether you're a potential employer, a fellow developer, or someone interested in tech, I hope my portfolio provides valuable insights into my skills and passion for creating innovative solutions.
+
 In the project directory, you can run:
 
 ### `npm start`
